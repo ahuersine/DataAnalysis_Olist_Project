@@ -6,7 +6,7 @@ This project aims to perform data analysis and queries using the Olist E-Commerc
 ## Technologies and Tools Used
 - SQL
 - PostgreSQL
-- Jupyter Notebook
+- Excel
 
 ## About the Dataset
 The project utilizes the Olist E-Commerce Public Dataset, providing valuable e-commerce data.
